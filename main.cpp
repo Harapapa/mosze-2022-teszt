@@ -23,5 +23,6 @@ int main()
     atlag /= N_ELEMENTS;
     std::cout << "Atlag: " << atlag << std::endl;
     std::cout << "Az nem std kaut hanem sziaut!" << std::endl;
+    std::cout << "most jo kell hogy legyen";
     return 0;
 }
